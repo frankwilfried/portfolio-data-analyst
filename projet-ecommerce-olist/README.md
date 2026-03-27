@@ -38,5 +38,5 @@ customers → orders → order_payments
 ```
 
 ## Autor
-**Frank** — angehender Data Analyst
+**WILFRIED FOZING ** — angehender Data Analyst
 Auf der Suche nach einer Werkstudentenstelle im Bereich Data Analytics
