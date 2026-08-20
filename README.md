@@ -36,6 +36,16 @@ von Fluktuationsrisiken und Handlungsempfehlungen für die HR-Abteilung.
 
 ## SQL-Abfragen
 Alle Abfragen sind in `analyse_rh.sql` dokumentiert.
+## Power BI Dashboard
+
+![Dashboard Olist](powerbi/olist_dashboard.png)
+
+### KPIs visualisiert
+- **Gesamtumsatz:** 13,59 Mio. €
+- **Anzahl Bestellungen:** 99.441
+- **Lieferpünktlichkeit:** 95%
+- **Anteil Kreditkartenzahlungen:** 74%
+- **Top-Kategorie:** Beleza & Saúde
 
 ## Autor
 **Wilfried Fozing ** — angehender Data Analyst
